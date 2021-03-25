@@ -1,4 +1,4 @@
-<h2> Hey, I´m Sonia Sayago 👋 <div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/TAI7m9rn3J6eeUn9Q2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/laboratoriala-transparent-laboratoria-TAI7m9rn3J6eeUn9Q2">via GIPHY</a></p> width="80"></h2>
+<h2> Hey, I´m Sonia Sayago 👋 <a href="https://giphy.com/stickers/laboratoriala-transparent-laboratoria-TAI7m9rn3J6eeUn9Q2"> width="80"></h2>
 
 <!--
 **SoniaSayago/SoniaSayago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
