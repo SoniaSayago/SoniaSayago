@@ -13,7 +13,8 @@
 const Sonia = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python], 
-  tools: [Node, Angular, React, IBM Watson, Bootstrap5, Vue, Django],
+  tools: [Node.js, React, IBM Watson, Vue],
+  frameworks: [Bootstrap5, Angular, Tailwind, Sass, Materialize, ]
   areas: ["IoT", "Websites", "Api", "Chatbots", "Artificial Intelligence"],
   languages: ["Portuguese", "English", "Spanish"]
 }
