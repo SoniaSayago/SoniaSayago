@@ -24,4 +24,16 @@ const Sonia = {
 
 ---
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaSayago&theme=buefy&layout=compact)](https://github.com/SoniaSayago/github-readme-stats)
+![SoniaSayago github stats](https://github-readme-stats.vercel.app/api?username=SoniaSayago&count_private=true&show_icons=true&theme=buefy)
+
+</div>
+
+<p align="center">   
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/SoniaSayago/count.svg" />  
+</p>  
+
 ⭐️ From [@SoniaSayago](https://github.com/SoniaSayago)
